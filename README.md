@@ -20,8 +20,8 @@ inside of these 2 array add 1 sample sentence & 1 sample character
  
 and add 1 to the number 4 here in these two `const` variable 
 
-`const randomnum1 = Math.floor(Math.random() * 4)`
+>`const randomnum1 = Math.floor(Math.random() * 4)`
 
-`const randomnum2 = Math.floor(Math.random() * 4)`
+>`const randomnum2 = Math.floor(Math.random() * 4)`
 
-> 
+and **RUN**
